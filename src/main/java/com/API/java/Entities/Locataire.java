@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "locataire")
+@Table(name = "locataire",schema = "public")
 
 public class Locataire extends User {
 

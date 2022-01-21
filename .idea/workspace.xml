@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbeac98d-8d3e-4a83-8d60-63f24c09c81b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/API_java-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/API_java-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creates.sql" beforeDir="false" afterPath="$PROJECT_DIR$/creates.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/API/java/Controller/BailleurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/API/java/Controller/BailleurController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/API/java/Controller/LocataireController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/API/java/Controller/LocataireController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/API/java/Entities/Locataire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/API/java/Entities/Locataire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/API/java/repository/LocataireRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/API/java/repository/LocataireRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.API/API_java-1/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.API/API_java-1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/API/java/Controller/BailleurController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/API/java/Controller/BailleurController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/API/java/repository/LocataireRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/API/java/repository/LocataireRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +91,7 @@
       <workItem from="1642678331820" duration="1608000" />
       <workItem from="1642682866566" duration="1383000" />
       <workItem from="1642688721509" duration="605000" />
+      <workItem from="1642764439302" duration="178000" />
     </task>
     <servers />
   </component>
